@@ -1,4 +1,4 @@
-#🚀 Web Playground: Code & Creativity 🚀
+🚀 Web Playground: Code & Creativity 🚀
 
 Explore my web projects — a fusion of design, innovation, and responsive magic.
 
