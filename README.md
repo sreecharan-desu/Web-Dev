@@ -5,8 +5,8 @@ Explore my web projects — a fusion of design, innovation, and responsive magic
 **🎨 Highlights:**
 
   1. College Management System
-  
   2. GradeLite
+  3. My Internship Journey in Codsoft
 
 👩‍💻 Responsive Wonders:
 
